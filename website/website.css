@@ -1,0 +1,9 @@
+.title{
+  font-family: "Georgia";
+}
+
+.centerText{
+  position: absolute;
+  left: 600px;
+  top: 150px;
+}
